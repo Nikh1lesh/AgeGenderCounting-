@@ -1,0 +1,9 @@
+opencv-python
+numpy
+tensorflow
+mediapipe
+face-recognition
+csv
+ultralytics
+omegaconf
+dlib
